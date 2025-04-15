@@ -1,0 +1,20 @@
+[
+    {
+        "hora": "Matrix",
+        "sala": "Ciencia Ficci\u00f3n",
+        "pelicula": "1 hora con 30 min",
+        "boletos": "Clasificacion A"
+    },
+    {
+        "hora": "Titanic",
+        "sala": "Drama/Romance",
+        "pelicula": "2 horas con 30 min",
+        "boletos": "Clasificacion B"
+    },
+    {
+        "hora": "Avengers",
+        "sala": "Accion",
+        "pelicula": "2 horas",
+        "boletos": "A"
+    }
+]

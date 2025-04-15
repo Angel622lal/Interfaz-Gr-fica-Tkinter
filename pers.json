@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Angel Camacho",
+        "contacto": "angel@email.com",
+        "tipo": "Usuario",
+        "rol": null
+    },
+    {
+        "nombre": "Ricardo Salinas",
+        "contacto": "ricardo@email.com",
+        "tipo": "Usuario",
+        "rol": null
+    },
+    {
+        "nombre": "Mario Almada",
+        "contacto": "mario@email.com",
+        "tipo": "Usuario",
+        "rol": null
+    },
+    {
+        "nombre": "Leonel Torres",
+        "contacto": "leonel@email.com",
+        "tipo": "Empleado",
+        "rol": "Administrador"
+    },
+    {
+        "nombre": "Manuel Santos",
+        "contacto": "manuel@email.com",
+        "tipo": "Empleado",
+        "rol": "Taquillero"
+    },
+    {
+        "nombre": "Carlos Hernandez",
+        "contacto": "carlos@email.com",
+        "tipo": "Empleado",
+        "rol": "Limpieza"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "descuento": 20,
+        "condicion": "Canjear antes del 14 de Febrero",
+        "producto": "Boletos"
+    },
+    {
+        "descuento": 40,
+        "condicion": "Canjear antes del 3 de Octubre",
+        "producto": "Palomitas"
+    }
+]
