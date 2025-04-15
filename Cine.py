@@ -298,6 +298,7 @@ class Promocion:
         for oferta in Promocion.list_descuentos:
             print(f"Promocion: {oferta.descuento}% de descuento en {oferta.producto}, Condiciones: {oferta.condicion}")
 
+'''
 #Peliculas
 Peli1 = Pelicula("Matrix", "Ciencia Ficción", "1 hora con 30 min", "Clasificacion A")
 Peli2 = Pelicula("Titanic", "Drama/Romance", "2 horas con 30 min", "Clasificacion B")
